@@ -23,3 +23,4 @@ jobs:
           plugin_activity_limit: 30
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_visibility: public
