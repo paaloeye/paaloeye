@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hej 👋
+
+![Metrics](/github-metrics.svg)
 
 <!--
 **paaloeye/paaloeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
